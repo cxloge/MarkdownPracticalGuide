@@ -1,0 +1,26 @@
+安装nodejs
+node -v
+where node
+
+输入命令，全局安装gitbook。
+
+npm install gitbook-cli -g
+
+
+mkdir   mybook                            创建文件夹
+cd  g:\mybook 
+
+gitbook init      //初始化目录文件
+gitbook build
+gitbook serve
+
+
+C:\Users\chenxiaolong\GitBook\Library\cxloge\yiibaijava
+
+
+生成 Mobi 格式的电子书
+
+gitbook mobi ./ ./yiibaijava.mobi
+
+GitHubDesktopSetup
+https://desktop.github.com/
