@@ -22,5 +22,9 @@ C:\Users\chenxiaolong\GitBook\Library\cxloge\yiibaijava
 
 gitbook mobi ./ ./yiibaijava.mobi
 
+
+专升本英语入学题库
+gitbook mobi ./ ./专升本英语入学题库a.mobi
+
 GitHubDesktopSetup
 https://desktop.github.com/
